@@ -2,7 +2,7 @@
 void
 usage(){
   printf("\n");
-  printf("USAGE: ./MyDiskBench -d <dataset> -p <access pattern> -r <record size>\n");
+  printf("USAGE: ./hawkdisk -d <dataset> -p <access pattern> -r <record size>\n");
   printf("\n");
   printf("OPTIONS: \n");
   printf("\t -d Integer \t\t The given datasets (1,2,3,4,5,6,7)\n");
