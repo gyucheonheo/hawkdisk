@@ -1,8 +1,4 @@
-MyDiskBench
-
-Team 13
-
-Jingwen Pickens, Hyesoo Noh, Gyucheon Heo
+Hawkdisk
 
 1. Build
 $>make
@@ -41,7 +37,7 @@ $>make run_rnd_read_iops
 Each command will run against each dataset, concurrency, and record size
 
 If you want to run an individual experiment, print usage by running the below
-$>./MyDiskBench
+$>./hawkdisk
 
 4. Clear Results
 
