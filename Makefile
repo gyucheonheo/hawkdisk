@@ -8,7 +8,7 @@ OBJ := $(SRC:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)
 
 CFLAGS 	:= -g -Wall -D_GNU_SOURCE
 LDFLAGS	:= -Llib -pthread
-EXE = MyDiskBench
+EXE = hawkdisk
 
 .PHONY: all clean help test
 
