@@ -14,5 +14,5 @@ usage(){
   printf("\t The number of threads will be set based up on the dataset\n");
 
   printf("Example : \n");
-  printf("   ./MyDiskBench -d 3 -p 0 -r 64\n\n");
+  printf("   ./hawkdisk -d 3 -p 0 -r 64\n\n");
 }
